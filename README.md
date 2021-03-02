@@ -1,14 +1,14 @@
-<h1><a href="https://www.weltpixel.com/magento-2-email-template-editor-with-gmail-markup-support.html">Magento 2 Transactional Email Template Editor by Weltpixel.</a></h1>
+<h1><a href="https://www.weltpixel.com/magento-2-email-template-editor-with-gmail-markup-support.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Transactional Email Template Editor by Weltpixel.</a></h1>
 <br/><br/>
 <table>
  <tr>
   <td width="30%" valign="center" style="
     border: none;
-"><br><a href="https://www.weltpixel.com/magento-2-email-template-editor-with-gmail-markup-support.html"><img src="https://www.weltpixel.com/media/catalog/product/2/7/27._transactional_email_template_editor_1_1.png" alt="Transactional Email Template Editor"></a>
-<br><a href="https://www.weltpixel.com"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
+"><br><a href="https://www.weltpixel.com/magento-2-email-template-editor-with-gmail-markup-support.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/catalog/product/2/7/27._transactional_email_template_editor_1_1.png" alt="Transactional Email Template Editor"></a>
+<br><a href="https://www.weltpixel.com?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
   <td style="border:none;"><br>
-  	<h1>ABOUT THE MAGENTO 2 CHECKOUT SUCCESS PAGE.</h1>
-  	<p>
+    <h1>ABOUT THE MAGENTO 2 CHECKOUT SUCCESS PAGE.</h1>
+    <p>
 Powerful Magento Email Template Editor with Gmail markup support. Fully responsive emails, rich design options to fully customize your transactional emails with a few clicks.
     </p>
     <p>
@@ -27,8 +27,8 @@ Gmail Markups help you highlight your emails with important information and incr
     <p>
 Email with Markups will appear in Google Search Results when the user searches for information about their orders.
     </p>
-         <h3>Download Here: <a href="https://www.weltpixel.com/magento-2-email-template-editor-with-gmail-markup-support.html">Transactional Email Template Editor by WeltPixel.</a></h3>
-                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl">Pearl Theme for Magento 2.</a></h3>
+         <h3>Download Here: <a href="https://www.weltpixel.com/magento-2-email-template-editor-with-gmail-markup-support.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Transactional Email Template Editor by WeltPixel.</a></h3>
+                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Pearl Theme for Magento 2.</a></h3>
                             </div></td>
  </tr>
 </table>
@@ -45,7 +45,7 @@ Display Action Buttons in Inbox by Gmail
             Sign In
             </li>
             <li>
-            	Confirm Email
+              Confirm Email
                 </li>
                 <li>
                     Create and Reset Password
@@ -87,8 +87,8 @@ Display relevant products in Email Templates as a Grid
 </ul>
 <p>
 Email Template Editor for All Emails
-	</p>
-	<ul>
+  </p>
+  <ul>
         <li>
             Ability to change Text Colors, Backgrounds, Link Colors and Font
         </li>
@@ -252,8 +252,8 @@ Ability to customize the first line in the email for better engagement
                         </ul> 
                         <h1>Magento Marketplace Installation.</h1>
                             <ul>
-                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
-                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
+                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
+                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
                                                                                                                 <tr>
   <td width="100%">
       <div class="col-md-6">
@@ -313,10 +313,10 @@ Configure Store information. Go to <strong>Admin -> Stores -> Settings -> Config
 <h3>STEP 3:</h3>
 <p>
 Go to <strong>WeltPixel -> Email Template Editor -> General Settings</strong>.
-	</p>
-	<p>
+  </p>
+  <p>
 Here you will have the options to:
-	</p>
+  </p>
 <ul>
         <li>
             Enable the extension (yes/no)
@@ -519,7 +519,7 @@ Credit Memo Comment
 <h2 style="font-weight: 600;">HOW TO SET UP MAGENTO NEWSLETTER EMAILS?</h2>
 <p>
 <strong>Configuration -> Customers -> Newsletter</strong>
-	</p>
+  </p>
 <p>
 Here you will be able to configure the template for email subscription confirmation as well as for the tragic event when a customer unsubscribes
 </p>
@@ -532,7 +532,7 @@ Here you will be able to configure the template for email subscription confirmat
 <h2 style="font-weight: 600;">HOW TO CONFIGURE MAGENTO WHISHLISTS?</h2>
 <p>
 If your Wish List functionality is enabled then you can set the template below:
-	</p>
+  </p>
 <p>
 <strong>Store -> Configuration -> Customers -> Wish List</strong>
 </p>
@@ -546,7 +546,7 @@ If your Wish List functionality is enabled then you can set the template below:
 <h2 style="font-weight: 600;">HOW TO SET UP MAGENTO CUSTOMER EMAILS?</h2>
 <p>
 <strong>Configuration -> Customers -> Customer Configuration</strong>
-	</p>
+  </p>
 <p>
 Here you will be able to setup the Welcome and Forgot Password related emails.
 </p>
@@ -560,13 +560,13 @@ Here you will be able to setup the Welcome and Forgot Password related emails.
 <h2 style="font-weight: 600;">HOW TO SUBMIT TO GMAIL?</h2>
 <p>
 You will need to register your email address with Google in order for the Gmail Markup to show.
-	</p>
+  </p>
 <p>
 Please follow these steps to get registered: https://developers.google.com/gmail/markup/registering-with-google
 </p>
 <p>
 WeltPixel is not responsible for your account Approval or Denial.
-	</p>
+  </p>
 </div>
   </td>
  </tr>  
@@ -576,7 +576,7 @@ WeltPixel is not responsible for your account Approval or Denial.
 <h2 style="font-weight: 600;">DISPLAYING A RELATED/CROSS-SELL/UP-SELL PRODUCT GRID IN EMAIL TEMPLATES</h2>
 <p>
 <strong>Head into Admin -> WeltPixel -> Email Template Editor -> Email Template Editor Settings -> Products Grid -> Enable Products Grid</strong> and set this option to <strong>Yes</strong>
-	</p>
+  </p>
 <p>
 Configure the options as you like and <strong>Save the Config</strong>
 </p>
@@ -604,4 +604,4 @@ Configure the options as you like and <strong>Save the Config</strong>
           </td>
  </tr>
 </table>
- <h3>Download it now! <a href="https://www.weltpixel.com/magento-2-email-template-editor-with-gmail-markup-support.html">Magento 2 Transactional Email Template Editor by WeltPixel.</a></h3>
+ <h3>Download it now! <a href="https://www.weltpixel.com/magento-2-email-template-editor-with-gmail-markup-support.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Transactional Email Template Editor by WeltPixel.</a></h3>
